@@ -1,0 +1,5 @@
+com\takeo\repo\UserEntityRepo.class
+com\takeo\service\UserService.class
+com\takeo\service\impl\UserServiceImpl.class
+com\takeo\entity\UserEntity.class
+com\takeo\UserMicroserviceApplication.class
